@@ -1,4 +1,5 @@
 def hello():
-	print ('hello')
+	x = 'world'
+	print ('hello, ', x)
 
 hello()
